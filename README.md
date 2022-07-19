@@ -5,8 +5,10 @@ My name is Matthew Sklepowich and I am currently learning various programming la
 ### What is the Growth Mindset?
 
 ```
-The Growth mindset is a way of thinking that helps an individual succeed inside and outside of work. By not walking away at the 
-sight of a problem, but instead using the challenge as a motivation, you're able to become more productive. These
+The Growth mindset is a way of thinking that helps an individual succeed inside and outside of work. 
+By not walking away at the sight of a problem, but instead using the challenge as a motivation, 
+you're able to become more productive. Turning your frustrations into motivations creates better
+habits for you and helps lift up your way of life.
 ```
 
 ### Reminders to Keep a Growth Mindset
