@@ -1,6 +1,6 @@
 # Matthew's Reading Journal
 
-My name is Matthew Sklepowich and I am currently learning various programming languages through Code Fellows. This page is meant for me to store notes as I learn new things with them.
+My name is Matthew Sklepowich and I am currently learning various programming languages through Code Fellows. This page is meant for me to store notes as I learn new things with them. My Github portfolio page can be found [here](https://github.com/Matt-Sklep).
 
 ### What is the Growth Mindset?
 
