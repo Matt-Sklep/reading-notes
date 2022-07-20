@@ -30,7 +30,18 @@ Markdown uses a small handful of symbols on a keyboard to create stylistic chang
 By putting 1-6 `#` symbols (and a space) before a header, you can change the size of your headings to help visitors know where something new starts. 1 # is the biggest a header can be, and 6 # is the smallest.
 
 ```* & _ Symbols```
+The asterisk and the underscore both allow you to bold and italicize your text, by placing a number of them on both sides of the text you want to emphasize. *1* of these symbols on each side italicizes, **2** will bold, and ***3*** will italicize and bold.
 
+```Making Lists```
+Lists are incredibly easy to make. All one needs to do to start one is by starting at the number 1, adding a period and a space, and then adding the first item in the list. After that Markdown will automatically add entries every time you press enter. 
+1. It's
+2. Very
+3. Simple!
+
+Unordered lists are very similar, though to start them you use the `-, *, or +` sign with a space before each item.
+- Just
+- Like
+- This!
 
 
 
