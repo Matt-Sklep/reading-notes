@@ -19,4 +19,20 @@ habits for you and helps lift up your way of life.
 
 
 
+### Using Markdown with Github Pages
+
+Using Markdown with Github Pages is a great way to build an impressive-looking website without any knowledge of programming languages.
+
+#### Symbols Used for Styling
+Markdown uses a small handful of symbols on a keyboard to create stylistic changes to your webpage. There are a few select symbols that drastically change the flow of your webpage from just being a screen with text.
+
+```# Symbols```
+By putting 1-6 `#` symbols (and a space) before a header, you can change the size of your headings to help visitors know where something new starts. 1 # is the biggest a header can be, and 6 # is the smallest.
+
+```* & _ Symbols```
+
+
+
+
+
 
