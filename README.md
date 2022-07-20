@@ -17,7 +17,7 @@ habits for you and helps lift up your way of life.
 - At the end of the day, ask yourself how it went. Highlight the positives and recognizes the negatives *while coming up with solutions so they don't occur again.*
 - Your peers aren't competition, but are people who you can bounce ideas off of. Using two minds is greater than one, and this will lead to all parties becoming stronger.
 
-
+--------------------------------------------
 
 ### Using Markdown with Github Pages
 
@@ -45,8 +45,10 @@ Unordered lists are very similar, though to start them you use the `-, *, or +` 
 
 You can also add images, easily display code, and link to other webpages using Markdown!
 
-####Using Github Pages to start a Webpage
-Github Pages is a tool that easily allows you to create your own website. 
+#### Using GitHub Pages to start a Webpage
+GitHub Pages is a tool that easily allows you to create your own website, again with no programming knowledge! Simply create a GitHub account, create a new, public Repository, and by traversing to the `Settings` menu at the top right of the page, then going to the `Pages` tab, you can launch your webpage to the public. GitHub Pages gives you many different themes to help make your website more appealing too!
+
+--------------------------
 
 
 
