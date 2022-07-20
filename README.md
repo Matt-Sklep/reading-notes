@@ -43,6 +43,11 @@ Unordered lists are very similar, though to start them you use the `-, *, or +` 
 - Like
 - This!
 
+You can also add images, easily display code, and link to other webpages using Markdown!
+
+####Using Github Pages to start a Webpage
+Github Pages is a tool that easily allows you to create your own website. 
+
 
 
 
