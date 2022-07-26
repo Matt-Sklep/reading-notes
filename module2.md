@@ -2,7 +2,8 @@
 
 ## Learning the Terminal
 
-```Finding a Good Text Editor```
+### Finding a Good Text Editor
+
 Before learning the terminal, it's a good idea to find a good text editor to write programs into. There are tons of good text editors, but the best ones are the ones that:
 
 - Help complete code keywords for you, to save you the time of typing a variable 600 times in a single document.
@@ -10,11 +11,12 @@ Before learning the terminal, it's a good idea to find a good text editor to wri
 - Has a bountiful amount of themes, which are particularly useful at reducing the eye strain you might feel from staring a computer screen for long periods of time.
 - Has tons of plugins for you to download and use, which will help you be even more effecient while programming!
 
-```Getting Started with the Terminal```
+### Getting Started with the Terminal
 
 The terminal is an interface that allows you to input commands and get feedback from your computer. It can be a way to access your files, open programs, or create things, all without using your mouse! Within a terminal you have a Shell, which is how the computer will execute commands that are run within the terminal.
 
-```Useful Commands within the Terminal```
+### Useful Commands within the Terminal
+
 The terminal has tons of commands to know and use within it, here are some of the most important ones and what they mean/do.
 
 1. The `echo` command can be used to display messages about specific things in the terminal, such as `echo $SHELL` to see what shell you're using.

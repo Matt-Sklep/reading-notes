@@ -2,10 +2,7 @@
 
 ## What is the Growth Mindset?
 
-```The Growth mindset is a way of thinking that helps an individual succeed inside and outside of work.
-By not walking away at the sight of a problem, but instead using the challenge as a motivation,
-you're able to become more productive. Turning your frustrations into motivations creates better
-habits for you and helps lift up your way of life.```
+*The Growth mindset is a way of thinking that helps an individual succeed inside and outside of work. By not walking away at the sight of a problem, but instead using the challenge as a motivation, you're able to become more productive. Turning your frustrations into motivations creates better habits for you and helps lift up your way of life.*
 
 ## Reminders to Keep a Growth Mindset
 
@@ -24,6 +21,7 @@ Using Markdown with Github Pages is a great way to build an impressive-looking w
 Markdown uses a small handful of symbols on a keyboard to create stylistic changes to your webpage. There are a few select symbols that drastically change the flow of your webpage from just being a screen with text.
 
 ```# Symbols```
+
 By putting 1-6 `#` symbols (and a space) before a header, you can change the size of your headings to help visitors know where something new starts. 1 # is the biggest a header can be, and 6 # is the smallest.
 
 ```* & _ Symbols```
@@ -31,7 +29,8 @@ By putting 1-6 `#` symbols (and a space) before a header, you can change the siz
 The asterisk and the underscore both allow you to bold and italicize your text, by placing a number of them on both sides of the text you want to emphasize. *1* of these symbols on each side italicizes, **2** will bold, and ***3*** will italicize and bold.
 
 ```Making Lists```
-Lists are incredibly easy to make. All one needs to do to start one is by starting at the number 1, adding a period and a space, and then adding the first item in the list. After that Markdown will automatically add entries every time you press enter. 
+
+Lists are incredibly easy to make. All one needs to do to start one is by starting at the number 1, adding a period and a space, and then adding the first item in the list. After that Markdown will automatically add entries every time you press enter.
 
 1. It's
 2. Very
