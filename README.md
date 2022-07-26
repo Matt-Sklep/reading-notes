@@ -68,7 +68,7 @@ The terminal has tons of commands to know and use within it, here are some of th
 
 - The `echo` command can be used to display messages about specific things in the terminal, such as `echo $SHELL` to see what shell you're using.
 - The `pwd` (print working directory) command tells you where you currently are within your terminal. 
-- The `'ls` (list) command is similar to `pwd`, but you're able to enter in perameters to see various things about your location. The structure of the command is `ls [options] [location]`.
+- The `ls` (list) command is similar to `pwd`, but you're able to enter in perameters to see various things about your location. The structure of the command is `ls [options] [location]`.
     - Using *paths* in our `ls` commands allows us to see various files in specified places. an *absolute* path will show us files in relation to the *root* directory of the computer, while a *relative* path will show us files in relation to where we currently are in the system.
 
     Some important shortcuts to using paths are:
