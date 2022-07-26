@@ -5,3 +5,9 @@ My name is Matthew Sklepowich and I am currently learning various programming la
 ## Table of Contents
 
 This is a table of contents for each module I have gone through in the Code102 course. Each page has notes on what was learned in that module.
+
+[Module 1 - Growth Mindset & Markdown](https://matt-sklep.github.io/reading-notes/module1).
+
+[Module 2 - Learning the Terminal & Useful Commands](https://matt-sklep.github.io/reading-notes/module2)
+
+[Module 3 - Using Git to Push to the Cloud](https://matt-sklep.github.io/reading-notes/module3)
