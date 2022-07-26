@@ -50,6 +50,15 @@ GitHub Pages is a tool that easily allows you to create your own website, again 
 
 --------------------------
 
+### Learning the Terminal
+
+Before learning the terminal, it's a good idea to find a good text editor to write programs into. There are tons of good text editors, but the best ones are the ones that:
+- Help complete code keywords for you, to save you the time of typing a variable 600 times in a single document.
+- Highlight the syntax used in your programs, to help you distinguish what is a variable VS commented out code or notes VS keywords.
+- Has a bountiful amount of themes, which are particularly useful at reducing the eye strain you might feel from staring a computer screen for long periods of time.
+- Has tons of plugins for you to download and use, which will help you be even more effecient while programming!
+
+
 
 
 
