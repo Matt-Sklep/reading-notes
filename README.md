@@ -11,3 +11,5 @@ This is a table of contents for each module I have gone through in the Code102 c
 [Module 2 - Learning the Terminal & Useful Commands](https://matt-sklep.github.io/reading-notes/module2)
 
 [Module 3 - Using Git to Push to the Cloud](https://matt-sklep.github.io/reading-notes/module3)
+
+[Module 4 - Wireframes and HTML](https://matt-sklep.github.io/reading-notes/module4)
