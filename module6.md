@@ -45,38 +45,38 @@ There are multiple sign-operators which do many things within JavaScript. Some o
 
 ### Arithmetic Opertors
 
-`+` - Addition
-`-` - Subtraction
-`*` - Multiplication
-`**` - Exponentiation
-`/` - Division
-`%` - Modulus (Division Remainder)
-`++` - Increment
-`--` - Decrement
+- `+` - Addition
+- `-` - Subtraction
+- `*` - Multiplication
+- `**` - Exponentiation
+- `/` - Division
+- `%` - Modulus (Division Remainder)
+- `++` - Increment
+- `--` - Decrement
 
 ### Assignment Operators
 
-`=` - Assignment
-`+=` - Adding something onto an assigned variable.
-`-=` - Remove something from an assigned variable.
-`*=` - Multiplying something onto an assigned variable.
-`/=` - Dividing something from an assigned variable.
-`%=` - Getting the remainder from an assigned variable.
-`**=` - Exponentially multiplying an assigned variable.
+- `=` - Assignment
+- `+=` - Adding something onto an assigned variable.
+- `-=` - Remove something from an assigned variable.
+- `*=` - Multiplying something onto an assigned variable.
+- `/=` - Dividing something from an assigned variable.
+- `%=` - Getting the remainder from an assigned variable.
+- `**=` - Exponentially multiplying an assigned variable.
 
 ### Comparison Operators
 
-`==` - Equal to
-`===` - Equal value and equal type
-`!=` - Not equal to
-`!==` - Not equal value or not equal type
-`>` - Greater than
-`<` - Less than
-`>=` - Greater than or equal to
-`<=` - Less than or equal to
+- `==` - Equal to
+- `===` - Equal value and equal type
+- `!=` - Not equal to
+- `!==` - Not equal value or not equal type
+- `>` - Greater than
+- `<` - Less than
+- `>=` - Greater than or equal to
+- `<=` - Less than or equal to
 
 ### Logical Operators
 
-`&&` - Logical and
-`||` - Logical or
-`!` - Logical not
+- `&&` - Logical and
+- `||` - Logical or
+- `!` - Logical not
