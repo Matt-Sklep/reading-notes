@@ -15,3 +15,7 @@ This is a table of contents for each module I have gone through in the Code102 c
 [Module 4 - Wireframes and HTML](https://matt-sklep.github.io/reading-notes/module4)
 
 [Module 5 - Spicing Things up with CSS](https://matt-sklep.github.io/reading-notes/module5)
+
+[Module 6/7 - Adding Functions and Interactibility with JavaScript](https://matt-sklep.github.io/reading-notes/module6)
+
+[Module 8 - Using Loops and Operators](https://matt-sklep.github.io/reading-notes/module8)
